@@ -30,3 +30,6 @@ static/
 
 #media root
 media/*
+
+#nix stuff
+.direnv/
